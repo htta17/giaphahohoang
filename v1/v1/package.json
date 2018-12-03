@@ -1,9 +1,0 @@
-{
-  "name": "v1",
-  "version": "0.0.0",
-  "description": "v1",
-  "main": "server.js",
-  "author": {
-    "name": ""
-  }
-}
