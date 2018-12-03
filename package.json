@@ -1,0 +1,9 @@
+{
+  "name": "hoang-genealogy",
+  "version": "0.0.0",
+  "description": "HoangGenealogy",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
