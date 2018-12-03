@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\v1",
+    "\\v1\\bin",
+    "\\v1\\obj",
+    "\\v1\\public",
+    "\\v1\\public\\images",
+    "\\v1\\public\\javascripts",
+    "\\v1\\public\\stylesheets",
+    "\\v1\\routes",
+    "\\v1\\views"
+  ],
+  "SelectedNode": "\\v1\\app.js",
+  "PreviewInSolutionExplorer": false
+}
